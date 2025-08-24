@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DemoFotos
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.5.
@@ -57,3 +58,20 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+=======
+# Angular Firebase Image Upload
+
+Aplicación desarrollada en **Angular** que demuestra cómo integrar **Firebase Storage** para cargar y mostrar imágenes en la nube.
+
+## 🚀 Características
+- Subida de imágenes a Firebase Storage.
+- Visualización de imágenes cargadas en la aplicación.
+- Configuración sencilla de Firebase.
+- Proyecto ideal como ejemplo práctico de integración Angular + Firebase.
+
+## 🛠️ Tecnologías utilizadas
+- [Angular](https://angular.io/)
+- [Firebase Storage](https://firebase.google.com/docs/storage)
+- [TypeScript](https://www.typescriptlang.org/)
+
+>>>>>>> bcaebd13bcf7170b53027702fa8d544c1d088cfb
