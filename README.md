@@ -12,5 +12,3 @@ Aplicación desarrollada en **Angular** que demuestra cómo integrar **Firebase 
 - [Angular](https://angular.io/)
 - [Firebase Storage](https://firebase.google.com/docs/storage)
 - [TypeScript](https://www.typescriptlang.org/)
-
->>>>>>> bcaebd13bcf7170b53027702fa8d544c1d088cfb
